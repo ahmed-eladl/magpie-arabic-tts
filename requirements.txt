@@ -1,0 +1,16 @@
+# Core PyTorch & Audio
+torch>=2.1.0
+soundfile>=0.12.1
+librosa>=0.10.1
+
+# Hugging Face & Model Hub
+huggingface_hub>=0.23.0
+datasets>=2.16.0
+
+# NVIDIA NeMo Toolkit (version 3.0+ contains official MagpieTTS)
+nemo_toolkit[all]>=3.0.0
+
+# Web Demo & Interactive UI
+gradio>=4.0.0
+
+
